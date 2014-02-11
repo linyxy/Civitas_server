@@ -1,0 +1,2601 @@
+<head>
+	<title>红岸--全民双百特惠餐的餐饮供应 - 古典社会模拟 CIVITAS.Soobb.Com</title>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<link rel="Bookmark" href="http://www.soobb.com/favicon.ico"> 
+	<link rel="shortcut icon" href="http://www.soobb.com/favicon.ico" type="image/x-icon"> 
+	<link href="/Resources/Shared/Styles/Generic.css?Revision=68" type="text/css" rel="Stylesheet">
+	<link href="/Resources/Shared/Styles/Controls.css?Revision=68" type="text/css" rel="Stylesheet">
+	
+	
+	<link href="/Resources/Mine/Styles/Recipes.css" type="text/css" rel="Stylesheet">
+	<link href="/Resources/Estates/Styles/Generic.css" type="text/css" rel="Stylesheet">
+
+
+	
+</head>
+<body class="">
+	
+<div class="GenericHeader">
+	<div class="Soobb">
+		<h1 name="Top"><a href="http://www.soobb.com/">搜比旅游搜索</a></h1>
+		<h2><a href="http://civitas.soobb.com/">CIVITAS 古典社会模拟</a></h2>
+		<div class="Clock">
+			<p class="Version">Pre-Alpha 0108</p>
+			<p>第305天 11:18</p>
+		</div>
+	</div>
+	<div class="Navigator">
+		<ul>
+			
+			<li><a href="/">我的</a></li>
+			
+			<li class="NavigationMenu">
+				<a class="Label" href="/Districts/56/">街区</a>
+				<div class="Menu">
+					<div class="Item"><a href="/Districts/56/Residents/">寻找居民</a></div>
+					<div class="Item"><a href="/Districts/56/Estates/">走访地产</a></div>
+					<div class="Item"><a href="/Districts/56/Restaurants/">浏览餐馆</a></div>
+					<div class="Item"><a href="/Districts/56/Bookstores/">访问书局</a></div>
+					<div class="Item"><a href="/Districts/56/Terminals/">前往客运站</a></div>
+					<div class="Item"><a href="/Districts/56/Schools/">学堂名录</a></div>
+					<div class="Item"><a href="/Districts/56/Interactions/">公开声明</a></div>
+				</div>
+			</li>
+			
+			<li><a href="/Forums/">广场</a></li>
+			<li class="NavigationMenu">
+				<a class="Label" href="/Markets/">市场</a>
+				<div class="Menu">
+					<div class="Item"><a href="/Markets/Commodities/">实物市场</a></div>
+					<div class="Item"><a href="/Markets/Labours/">求职市场</a></div>
+					<div class="Item"><a href="/Markets/Jobs/">招聘市场</a></div>
+					<div class="Item"><a href="/Markets/Supervisors/">监工市场</a></div>
+					<div class="Item"><a href="/Markets/Occupancies/">租屋市场</a></div>
+					<div class="Item"><a href="/Markets/Estates/">不动产市场</a></div>
+				</div>
+			</li>
+			<li><a href="http://t.civitas.soobb.com/">百科</a></li>
+			
+		</ul>
+	</div>
+	<div class="Accounts">
+		<ul>
+			
+			<li class="NavigationMenu">
+				<a class="Label User" href="javascript:void(0)">
+					<img width="20" class="Avatar" src="http://images.soobb.com/Gothan/Accounts/45703/1_Avatar.jpg" alt="璃羽">
+					<span>璃羽</span>
+				</a>
+				<div class="Menu">
+					
+					<div class="Item"><a href="javascript:void(0)" onclick="Civitas.Controls.ChangeIdentity.Show()">更换身份</a></div>
+					<div class="Seperator"></div>
+					
+					<div class="Item"><a href="javascript:void(0)">提醒设置</a></div>
+					<div class="Item"><a href="javascript:void(0)">隐私设置</a></div>
+					<div class="Item"><a href="http://www.soobb.com/Accounts/Settings/">帐户设置</a></div>
+					<div class="Seperator"></div>
+					<div class="Item"><a href="http://www.soobb.com/Accounts/Logout/">登出</a></div>
+				</div>
+			</li>
+			<li class="NavigationMenu">
+				<a class="Label" href="javascript:void(0)">消息<span class="Notification" id="Header_Notifications" style="display: none;"></span></a>
+				<div class="Menu Notifications">
+					<div class="Item" id="Header_Notifications_3"><a href="http://www.soobb.com/Mine/AtComments/">提到我的<span></span></a></div>
+					<div class="Item" id="Header_Notifications_1"><a href="http://www.soobb.com/Messages/">我的站内信<span style="display: inline;">0</span></a></div>
+					<div class="Item"><a href="http://www.soobb.com/Mine/Attentions/">我关注的人</a></div>
+					<div class="Item" id="Header_Notifications_2"><a href="http://www.soobb.com/Mine/RevAttentions/">关注我的人<span style="display: inline;">0</span></a></div>
+					<div class="Item"><a href="http://www.soobb.com/Contacts/">我的友邻消息</a></div>
+					
+					<div class="Seperator"></div>
+					<div class="Item" id="Header_Notifications_4"><a href="/Mine/Notifications/">CIVITAS 通知<span style="display: inline;">0</span></a></div>
+					
+				</div>
+			</li>
+			
+		</ul>
+	</div>
+	<div class="Clear"></div>
+</div>
+	<div id="Content" class="TwoColumns">
+		<div id="MainContent">
+		
+	
+	<div class="LeftColumn">
+		
+	
+<div class="PersonalInfo">
+	<div class="Avatar"><a href="/Settings/UploadAvatar/" class="Normal"><img src="http://images.soobb.com/Civitas/Avatars/0/26/105/1/Standard.jpg"></a></div>
+	<div class="Text">
+		<p><a href="/People/25362/" class="WithEntityCard" entityid="26105">璃羽</a></p>
+		
+<div class="PersonalLevels">
+	<a class="Normal" href="javascript:void(0)" title="经验 334 / 420">
+		
+		<img src="/Resources/People/Images/Level_2.gif">
+		
+		<img src="/Resources/People/Images/Level_1.gif">
+		
+		<img src="/Resources/People/Images/Level_1.gif">
+		
+	</a>
+	<span>
+		6级
+		
+	</span>
+	<div class="Clear"></div>
+</div>
+		<p class="Tips">经验 334 / 420</p>
+		
+	</div>
+	<div class="Clear"></div>
+</div>
+
+<div class="PersonalStatistics">
+	<div class="Column">
+		<a href="http://www.soobb.com/People/45703/Attentions/" class="Normal" target="_blank">
+			<span class="Number">2</span>
+			<span class="Text">关注</span>
+		</a>
+	</div>
+	<div class="Column">
+		<a href="http://www.soobb.com/People/45703/RevAttentions/" class="Normal" target="_blank">
+			<span class="Number">2</span>
+			<span class="Text">粉丝</span>
+		</a>
+	</div>
+	<div class="Column LastColumn">
+		<a href="http://www.soobb.com/People/45703/Broadcasts/" class="Normal" target="_blank">
+			<span class="Number">0</span>
+			<span class="Text">广播</span>
+		</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+
+	
+<fieldset class="Line2"><legend>我的状态</legend></fieldset>
+<div class="PersonalStatus Section">
+	<div class="Status" id="Status_Stamina">
+		<div class="Label"><span>精力</span></div>
+		<div class="Content">
+			
+<div class="StatusBar"><div class="StatusUsed Green" style="width: 60px;"></div></div>
+			<p><span class="Number">60</span> / 100</p>
+		</div>
+		<div class="Clear"></div>
+	</div>
+	
+	<div class="Status" id="Status_Happiness">
+		<div class="Label"><span>快乐</span></div>
+		<div class="Content">
+			
+<div class="StatusBar"><div class="StatusUsed" style="width: 81px;"></div></div>
+			<p><span class="Number">80.9</span> / 100</p>
+		</div>
+		<div class="Clear"></div>
+	</div>
+	<div class="Status" id="Status_Health">
+		<div class="Label"><span>健康</span></div>
+		<div class="Content">
+			
+<div class="StatusBar"><div class="StatusUsed" style="width: 86px;"></div></div>
+			<p><span class="Number">86.2</span> / 100</p>
+		</div>
+		<div class="Clear"></div>
+	</div>
+	<div class="Status" id="Status_Starvation">
+		<div class="Label"><span>饥饿</span></div>
+		<div class="Content">
+			
+<div class="StatusBar"><div class="StatusUsed" style="width: 77px;"></div></div>
+			<p><span class="Number">76.5</span> / 100</p>
+		</div>
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+	
+<fieldset class="Line2"><legend>我的 CIVITAS</legend></fieldset>
+<div class="Navigation">
+	<div class="Item">
+		<div class="Label"><a href="/">我的 CIVITAS<span></span></a></div>
+		<div class="Label" id="Navigation_Notifications_4"><a href="/Mine/Notifications/">我的通知<span style="display: inline;">0</span></a></div>
+		
+		<div class="Label" id="Navigation_Notifications_1"><a href="http://www.soobb.com/Messages/">我的站内信<span style="display: inline;">0</span></a></div>
+		
+		<div class="Label"><a href="/Settings/UploadAvatar/">我的设置<span></span></a></div>
+	</div>
+</div>
+<fieldset class="Line2"><legend>我的生活</legend></fieldset>
+<div class="Navigation">
+	<div class="Item">
+		<div class="Label"><a href="/Mine/Recipes/">我的食谱</a></div>
+		<div class="Label"><a href="/Publications/Collections/">我的藏书</a></div>
+		
+		<div class="Label"><a href="/Mine/Educations/">我的教育</a></div>
+		<div class="Label"><a href="/Mine/Workplace/">我的副业</a></div>
+		
+	</div>
+</div>
+
+<fieldset class="Line2"><legend>我的交际圈</legend></fieldset>
+<div class="Navigation">
+	<div class="Item">
+		<div class="Label"><a href="/Mine/Relationships/">我的人际关系</a></div>
+		<div class="Label"><a href="/Mine/Interactions/">我的社交活动</a></div>
+		<div class="Label"><a href="/Forums/Speeches/?SpeechType=2">我的私人传闻</a></div>
+	</div>
+</div>
+<fieldset class="Line2"><legend>消息中心</legend></fieldset>
+<div class="Navigation">
+	<div class="Item">
+		<div class="Label" id="Navigation_Notifications_3"><a href="http://www.soobb.com/Mine/AtComments/">提到我的<span></span></a></div>
+		<div class="Label"><a href="http://www.soobb.com/Mine/Attentions/">我关注的人</a></div>
+		<div class="Label" id="Navigation_Notifications_2"><a href="http://www.soobb.com/Mine/RevAttentions/">关注我的人<span style="display: inline;">0</span></a></div>
+	</div>
+</div>
+
+<fieldset class="Line2"><legend>我的资产</legend></fieldset>
+<div class="Navigation">
+	<div class="Item">
+		<div class="Label"><a href="/Markets/Inventories/42856/">我的库房</a></div>
+		<div class="Label"><a href="/Estates/Managing/">我的不动产</a></div>
+		<div class="Label"><a href="/Mine/Transactions/">我的私人交易</a></div>
+	</div>
+</div>
+
+<fieldset class="Line2"><legend>邀请与宝藏</legend></fieldset>
+<div class="Navigation">
+	<div class="Item">
+		<div class="Label"><a href="/Invitations/">我的邀请函<span class="Fixed">2</span></a></div>
+		<div class="Label"><a href="/Mine/Treasures/">我的古代遗产<span class="Fixed">2</span></a></div>
+		<div class="Label"><a href="/Mine/Migrations/">我的移民机会<span></span></a></div>
+	</div>
+</div>
+
+
+	</div>
+	<div class="ContentColumn">
+		
+	<div class="Recipes">
+		
+<div class="EstateHeader Header">
+	
+<div class="Avatar AvatarMedium"><a href="/Estates/9923/Details/" class="Normal"><img src="http://images.soobb.com/Civitas/Estates/Avatars/0/9/923/1/Medium.jpg"></a></div>
+	<div class="Content">
+		<div class="Subject">
+			<h3><a href="/Estates/9923/Details/">红岸--全民双百特惠餐</a>的餐饮供应<span>(宅院)</span></h3>
+			<div class="LevelStarLarge LStars10"></div>
+			<div class="Clear"></div>
+		</div>
+		<div class="Functions">
+			<span>&gt; 位于<a href="javascript:void(0)" class="WithEntityCard" entityid="3374">亚历山大</a>亚历山大港的平原</span>
+			<span>&gt; <a href="/Estates/17894/Details/" class="WithEntityCard" entityid="20717">【星环集团】亚历山大港</a> 管理</span>
+			<span>&gt; <a href="/Estates/17894/Details/" class="WithEntityCard" entityid="20717">【星环集团】亚历山大港</a> 所有</span>
+			<span>&gt; <a href="/Estates/17894/Details/" class="WithEntityCard" entityid="20717">【星环集团】亚历山大港</a> 宣称</span>
+			<span>&gt; 无人 监工</span>
+		</div>
+		<div class="Statistics">
+			
+<div class="Text Details">
+	<p class="Number">0.05</p>
+	<p class="Tips">规划面积</p>
+</div>
+<div class="Text Text2">
+	<p class="Number">0.05</p>
+	<p class="Tips">占地面积</p>
+</div>
+<div class="Text">
+	<p class="Number">0.05</p>
+	<p class="Tips">建设面积</p>
+</div>
+<div class="Text Text2">
+	<p class="Number">2</p>
+	<p class="Tips">容纳人数</p>
+</div>
+<div class="Text">
+	<p class="Number">2</p>
+	<p class="Tips">居住人数</p>
+</div>
+<div class="Text Text2">
+	<p class="Number">0</p>
+	<p class="Tips">已工作人数</p>
+</div>
+<div class="Text">
+	<p class="Number">75%</p>
+	<p class="Tips">预期效率</p>
+</div>
+		</div>
+	</div>
+	<div class="Clear"></div>
+</div>
+		
+		<div class="Section">
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/85085/">全民双百&amp;勤奋+2互赞</a></h5>
+		<p class="Tips">4.99   5.39</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">424</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.78</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.61</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.85</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.6%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">424</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">5.59</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26183">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/85131/">花间小酌（4粉新单）</a></h5>
+		<p class="Tips">3.9   4.4</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">292</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.55</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.36</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.95</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-2.5%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">292</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">4.38</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26180">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/86287/">1点精力</a></h5>
+		<p class="Tips">1 lowprowder beer</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">206</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.49</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.30</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.29</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.00</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-1.4%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">206</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">0.95</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26771">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/86290/">某人精力抢救包II</a></h5>
+		<p class="Tips">16 someone rescuing II</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">23</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.50</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.18</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.61</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">9.91</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+0.7%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">23</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">16.00</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26564">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/86599/">全民双百--勤奋+1互赞</a></h5>
+		<p class="Tips">price 6.2  emp5.1</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">231</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.98</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.68</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.96</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+0.7%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">231</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">6.20</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26506">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/87070/">新人福利（3粉餐）</a></h5>
+		<p class="Tips">2.99</p>
+	</div>
+	<div class="Text">
+		<p class="Number">5</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">697</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.13</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.12</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.77</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-4.4%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">5</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">697</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">3.08</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26186">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/87074/">新人福利（3.5粉特色餐）</a></h5>
+		<p class="Tips">3.5</p>
+	</div>
+	<div class="Text">
+		<p class="Number">3</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">305</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.26</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.15</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.96</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-3.8%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">3</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">305</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">3.49</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26184">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/87076/">富裕生活(8粉餐升级)</a></h5>
+		<p class="Tips">8.5</p>
+	</div>
+	<div class="Text">
+		<p class="Number">4</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">95</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.01</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.64</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.28</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.72</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+2.7%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">4</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">95</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">8.49</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26182">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/87082/">廉价刷奢侈</a></h5>
+		<p class="Tips">1.05</p>
+	</div>
+	<div class="Text">
+		<p class="Number">8</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">1198</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.20</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.13</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.19</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.34</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+0.8%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">8</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">1198</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">1.05</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26477">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/87083/">补刀餐2</a></h5>
+		<p class="Tips">0.57</p>
+	</div>
+	<div class="Text">
+		<p class="Number">2</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">815</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.50</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.08</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.02</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.24</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.3%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">2</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">815</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">0.57</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26187">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/87085/">副业餐（5.5粉）</a></h5>
+		<p class="Tips">5.3-5.5</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">124</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.51</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.76</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.47</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.63</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-1.9%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">124</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">5.59</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26509">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/88458/">双百系列—谨慎扎实+4互赞</a></h5>
+		<p class="Tips">price 9.2  emp8</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">112</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.99</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.35</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.16</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+2.2%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">112</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">9.09</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26181">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/88937/">快乐营养 6粉餐</a></h5>
+		<p class="Tips">6.4 6.0</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">47</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.09</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.27</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.48</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.7%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">47</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">5.59</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26301">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/89047/">全民双百-正常+教育</a></h5>
+		<p class="Tips">price 8.8 emp7.6</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">117</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.50</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.75</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.16</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.36</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+2.3%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">117</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">8.80</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26305">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/89394/">炭烧粉</a></h5>
+		<p class="Tips">2.2</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">179</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.22</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.23</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.91</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-4.4%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">179</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">2.20</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=28356">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/90193/">某人精力抢救包</a></h5>
+		<p class="Tips">8 someone rescuing</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">41</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.55</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.41</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.61</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">6.86</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-1.4%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">41</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">8.00</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=26776">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/90667/">全民双百&amp;正常谨慎节俭3赞</a></h5>
+		<p class="Tips">PRICE4.3  EMY 3.9</p>
+	</div>
+	<div class="Text">
+		<p class="Number">3</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">250</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">11.00</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.00</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.81</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.74</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-7.3%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">3</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">250</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">5.08</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=30073">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/90809/">苦心教育&amp;谨慎奢侈双百餐</a></h5>
+		<p class="Tips">price 19.8  emp17.5</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">38</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">13.01</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.80</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.30</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.82</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+12.1%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">38</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">18.90</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=27137">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/91047/">快乐单百-苦心教育餐</a></h5>
+		<p class="Tips">price 17.8  emp13.9</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">20</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.50</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.66</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.32</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.00</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+11%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">20</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">17.80</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=27143">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/91601/">豪华免费大餐</a></h5>
+		<p class="Tips">Free</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">0</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">109.05</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">23.86</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">13.82</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">56.95</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+22.1%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">0.00</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">免费享用</p>
+			<div class="LevelStarSmall SStars00"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=27409">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/94918/">双百系列--勤奋+教育</a></h5>
+		<p class="Tips">price 11.5  emp9.9</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">98</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.50</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.52</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.94</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.39</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+6.3%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">98</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">11.50</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=28758">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/94939/">双百系列&amp;扎实+教育</a></h5>
+		<p class="Tips">price 13.5  emp11.9</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">101</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.51</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.25</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.78</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.62</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+8.5%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">101</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">13.50</p>
+			<p class="Tips">每���价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=28761">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/96359/">某人精力抢救包III</a></h5>
+		<p class="Tips">22 someone rescuing III</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">2</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.55</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.83</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.78</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">9.75</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+2.3%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">2</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">21.50</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=29470">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/96655/">河蟹健康抢救包</a></h5>
+		<p class="Tips">12 RiverCarb rescuing</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">16</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.52</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.08</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.52</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.26</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+6.3%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">16</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">14.00</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=29568">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/108312/">土豪的选择</a></h5>
+		<p class="Tips">wealth</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">1</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.65</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">7.73</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">7.58</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">10.50</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+15.5%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">34.00</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=30721">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/108314/">土豪的选择II</a></h5>
+		<p class="Tips">26 weathII</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">2</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">12.75</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">6.63</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.31</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">6.33</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+17.4%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">2</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">26.00</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=30719">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/108316/">苦心监工奢侈餐3口吃饱</a></h5>
+		<p class="Tips">PRICE 6.89  6.08</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">9</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.35</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.35</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.33</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.93</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+5.2%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">9</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">6.89</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=33001">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/108552/">水果糖</a></h5>
+		<p class="Tips">1 fruitjuice candy</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">172</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.85</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.23</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.13</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.22</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+0.5%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">172</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">1.30</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=30451">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/122354/">苦心-监工-谨慎</a></h5>
+		<p class="Tips">23  for manager</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">3</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">13.90</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">4.99</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">5.02</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">1.85</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+13%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">3</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">23.00</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=32216">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/122357/">监工5人加餐</a></h5>
+		<p class="Tips">manage 5 guys cost 2.8</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">10</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.75</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.40</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.42</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.46</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+1.4%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">10</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">2.80</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=32145">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/123003/">监工-2人</a></h5>
+		<p class="Tips">manage 2 guys 1.5</p>
+	</div>
+	<div class="Text">
+		<p class="Number">1</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">14</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">2.05</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.26</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.24</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.34</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+0.9%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">1</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">14</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">1.60</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=32654">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/123043/">监工 10人</a></h5>
+		<p class="Tips">manage 10 guys cost 3.4</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">10</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">3.10</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.56</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.60</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.48</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">+1.5%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">10</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">3.40</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=32208">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+<div class="StatisticsRow RecipeGroup">
+	<div class="Subject Text">
+		<h5><a href="/Mine/Recipes/123709/">刷节俭专用</a></h5>
+		<p class="Tips">0.01</p>
+	</div>
+	<div class="Text">
+		<p class="Number">0</p>
+		<p class="Tips">今日供应</p>
+	</div>
+	<div class="Text Text2">
+		<p class="Number">136</p>
+		<p class="Tips">历史供应</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.05</p>
+		<p class="Tips">饥饿变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">0.00</p>
+		<p class="Tips">快乐变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.00</p>
+		<p class="Tips">健康变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Positive">0.00</p>
+		<p class="Tips">精力变化</p>
+	</div>
+	<div class="Text">
+		<p class="Number Negative">-0.5%</p>
+		<p class="Tips">奢侈程度</p>
+	</div>
+	<div class="Buttons">
+		<a href="javascript:void(0)" class="StandardRedButton">展开</a>
+	</div>
+	<div class="Clear"></div>
+</div>
+<div class="RecipePrices">
+	
+	<div class="StatisticsRow RecipePrice">
+		<div class="Text">
+			<p class="Number">0</p>
+			<p class="Tips">今日供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">136</p>
+			<p class="Tips">历史供应</p>
+		</div>
+		<div class="Text">
+			<p class="Number">0.01</p>
+			<p class="Tips">每份价格</p>
+		</div>
+		<div class="Text Commodity">
+			<p class="Tips">支付 <strong>小麦粉</strong></p>
+			<div class="LevelStarSmall SStars10"></div>
+		</div>
+		
+		<div class="Text Buttons">
+			<a class="StandardBlueButton Consume" href="/Estates/9923/AjaxConsumeRecipe/?EstateRecipeID=33004">购买</a>
+		</div>
+		
+		<div class="Clear"></div>
+	</div>
+	
+</div>
+			
+		</div>
+		<div class="Section">
+			<a href="/Estates/9923/Details/" class="StandardBlueButton"><strong>返回红岸--全民双百特惠餐 »</strong></a>
+		</div>
+	</div>
+
+	</div>
+
+			<div class="Clear"></div>
+		</div>
+		<div class="BackToTop"><a href="#Top" style="display: none; left: 1090px;"></a></div>
+		
+<div class="GenericFooter">
+	<ul class="Links">
+		<li><a class="Normal" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://civitas.soobb.com/')" href="javascript:void(0)">设为首页</a></li>
+		<li><a class="Normal" href="http://www.soobb.com/About/">关于搜比</a></li>
+		<li><a class="Normal" href="http://www.soobb.com/People/civitas/Comments/23620/">关于 CIVITAS</a></li>
+		<li><a class="Normal" href="http://www.soobb.com/People/civitas/">联系我们</a></li>
+		<li><a class="Normal" href="http://www.soobb.com/About/Disclaimer/">免责声明</a></li>
+		<li><a class="Normal" href="http://www.soobb.com/About/Friendlinks/">友情链接</a></li>
+		<li><a class="Normal" href="http://www.soobb.com/People/civitas/Comments/23620/">意见反馈</a></li>
+		
+		<li><a class="Normal" href="http://m.civitas.soobb.com/Estates/9923/Recipes/">移动版</a></li>
+		
+	</ul>
+	<ul class="Information">
+		<li><strong>© 2014 Soobb.com</strong></li>
+		<li><em><a class="Normal" href="http://www.miibeian.gov.cn/">闽ICP备06039874号</a></em></li>
+	</ul>
+	<div class="Clear"></div>
+</div>
+
+<!--From Stage 1 to Stage 2: 234.0004ms-->
+<!--From Stage 2 to Stage 3: 62.4001ms-->
+<!--From Stage 3 to Stage 4: 546.001ms-->
+<!--From Stage 4 to Stage 5: 78.0001ms-->
+
+		<script type="text/javascript" language="javascript">
+			if (typeof Soobb == 'undefined') { Soobb = {} };
+			if (typeof Soobb.Accounts == 'undefined') { Soobb.Accounts = {} };
+			Soobb.Accounts.State = {'ID': 45703, 'Email': '594779212@qq.com', 'Nickname': '璃羽', 'Username': ''}
+		</script>
+		
+		<script type="text/javascript" language="javascript" src="http://www.soobb.com/Resources/Shared/Scripts/Framework.js?Revision=68"></script>
+		<script type="text/javascript" language="javascript" src="/Resources/Shared/Scripts/Common.js?Revision=68"></script>
+		<script type="text/javascript" language="javascript">
+			Soobb.Controls.BackToTop();
+		
+			Soobb.Accounts.DefaultNotifications = [{ "_id" : { "$oid" : "52d53ae12e4e37bacb70c73a" }, "AccountID" : 45703, "CategoryID" : 1, "Number" : 0, "SubCategoryID" : 0 }, { "_id" : { "$oid" : "52d53ae12e4e37bacb70c753" }, "AccountID" : 45703, "CategoryID" : 2, "Number" : 0, "SubCategoryID" : 0 }, { "_id" : { "$oid" : "52d53afb2e4e37bacb70cf35" }, "AccountID" : 45703, "CategoryID" : 3, "Number" : 0, "SubCategoryID" : 1 }, { "_id" : { "$oid" : "52d53adc2e4e37bacb70c5ee" }, "AccountID" : 45703, "CategoryID" : 4, "Number" : 0, "SubCategoryID" : 0 }]
+		
+		</script>
+		
+	
+	<script type="text/javascript" language="javascript" src="/Resources/Estates/Scripts/Generic.js?Revision=68"></script>
+	<script type="text/javascript" language="javascript">
+		Civitas.Controls.InventoryChooser();
+		Civitas.Estates.Recipes();
+	</script>
+
+
+		
+	</div>
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		try {
+			var pageTracker = _gat._getTracker("UA-9141119-1");
+			pageTracker._trackPageview();
+		} catch (err) { }
+	</script>
+	<!-- CIVITAS is a free, open project devoted to MEOWLINA.-->
+
+</body>
